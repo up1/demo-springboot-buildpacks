@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Implementation-Title: demo_container
+Implementation-Version: 0.0.1-SNAPSHOT
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx
+Start-Class: com.example.demo_container.DemoContainerApplication
+Build-Jdk-Spec: 1.8
+Spring-Boot-Version: 2.3.0.M1
+Created-By: Maven Jar Plugin 3.2.0
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+
